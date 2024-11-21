@@ -103,8 +103,8 @@ public class GameManager : MonoBehaviour
         nextStormsText.text = $"Завтра понижении температуры ожидается °C -{nextStorm}";
 
         //----------Задачи
-        TreeTasksText.text = $"Собрать дерева:{TreeTasks}/{treeCount}";
-        WorkerTasksText.text = $"Людей в городе:{WorkerTasks}/{workerCount}";
+        TreeTasksText.text = $"Собрать дерева: {TreeTasks}/{treeCount}";
+        WorkerTasksText.text = $"Людей в городе: {WorkerTasks}/{workerCount}";
 
         //----------Экран Победы
         if (TreeTasks <= treeCount && WorkerTasks <= workerCount)
