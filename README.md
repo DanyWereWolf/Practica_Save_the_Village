@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
 <div class="header">
     <h1>Практика юнити "сохранить деревню"</h1>
     <p>За основу была взята игра "Frostpank", где гланой задачей стаяло заботиться о жителях,
