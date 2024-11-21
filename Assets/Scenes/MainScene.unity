@@ -1686,7 +1686,7 @@ MonoBehaviour:
   treeText: {fileID: 120795953}
   TemperatureText: {fileID: 539677763}
   workerText: {fileID: 573477885}
-  workerCount: 5
+  workerCount: 1
   temperatureCount: 0
   treeCount: 0
   treePerWorker: 2
@@ -1720,7 +1720,7 @@ MonoBehaviour:
   StormStatistics: 0
   StatisticsText: {fileID: 1693848139}
   timeStormImg: {fileID: 1827237853}
-  stormMaxTime: 10
+  stormMaxTime: 60
   stormIncrease: 2
   saveStormWaves: 2
   stormWaves: 0
@@ -3810,8 +3810,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 87.99788, y: -41.855}
-  m_SizeDelta: {x: 132.0042, y: 25}
+  m_AnchoredPosition: {x: 80.8929, y: -41.854984}
+  m_SizeDelta: {x: 146.2142, y: 45.1307}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1074601826
 MonoBehaviour:
@@ -3835,12 +3835,12 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: c0851cbe07cc5e460b19c2a350516aac, type: 3}
-    m_FontSize: 25
+    m_FontSize: 29
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 40
-    m_Alignment: 4
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -5298,8 +5298,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 93.3, y: 38.77}
-  m_SizeDelta: {x: 111.4061, y: 25}
+  m_AnchoredPosition: {x: 80.893, y: 38.77}
+  m_SizeDelta: {x: 141.22, y: 33.2891}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1539699782
 MonoBehaviour:
@@ -5323,12 +5323,12 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: c0851cbe07cc5e460b19c2a350516aac, type: 3}
-    m_FontSize: 25
+    m_FontSize: 29
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 40
-    m_Alignment: 4
+    m_Alignment: 5
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -7512,8 +7512,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E: 5 \u0434\u0435\u0440\u0435\u0432\u0430\n\u041F\u0440\u0438\u0434\u0435\u0442
-    \u0447\u0435\u0440\u0435\u0437: "
+  m_Text: "\u041D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E: 5 \u0434\u0435\u0440\u0435\u0432\u0430\n\u0411\u0443\u0434\u0435\u0442
+    \u0433\u043E\u0442\u043E\u0432 \u0447\u0435\u0440\u0435\u0437: "
 --- !u!222 &1930698278
 CanvasRenderer:
   m_ObjectHideFlags: 0
